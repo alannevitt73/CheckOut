@@ -1,0 +1,17 @@
+C:\Users\alannevitt\Documents\Visual Studio 2017\Projects\CheckOut\CheckOut.Tests\bin\Debug\CheckOut.Tests.dll
+C:\Users\alannevitt\Documents\Visual Studio 2017\Projects\CheckOut\CheckOut.Tests\bin\Debug\CheckOut.Tests.pdb
+C:\Users\alannevitt\Documents\Visual Studio 2017\Projects\CheckOut\CheckOut.Tests\bin\Debug\CheckOut.dll
+C:\Users\alannevitt\Documents\Visual Studio 2017\Projects\CheckOut\CheckOut.Tests\bin\Debug\nunit.framework.dll
+C:\Users\alannevitt\Documents\Visual Studio 2017\Projects\CheckOut\CheckOut.Tests\bin\Debug\CheckOut.pdb
+C:\Users\alannevitt\Documents\Visual Studio 2017\Projects\CheckOut\CheckOut.Tests\bin\Debug\CheckOut.dll.config
+C:\Users\alannevitt\Documents\Visual Studio 2017\Projects\CheckOut\CheckOut.Tests\bin\Debug\nunit.framework.pdb
+C:\Users\alannevitt\Documents\Visual Studio 2017\Projects\CheckOut\CheckOut.Tests\bin\Debug\nunit.framework.xml
+C:\Users\alannevitt\Documents\Visual Studio 2017\Projects\CheckOut\CheckOut.Tests\obj\Debug\CheckOut.Tests.csprojResolveAssemblyReference.cache
+C:\Users\alannevitt\Documents\Visual Studio 2017\Projects\CheckOut\CheckOut.Tests\obj\Debug\CheckOut.Tests.csproj.CoreCompileInputs.cache
+C:\Users\alannevitt\Documents\Visual Studio 2017\Projects\CheckOut\CheckOut.Tests\obj\Debug\CheckOut.Tests.dll
+C:\Users\alannevitt\Documents\Visual Studio 2017\Projects\CheckOut\CheckOut.Tests\obj\Debug\CheckOut.Tests.pdb
+C:\Users\alannevitt\Documents\Visual Studio 2017\Projects\CheckOut\CheckOut.Tests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\alannevitt\Documents\Visual Studio 2017\Projects\CheckOut\CheckOut.Tests\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\alannevitt\Documents\Visual Studio 2017\Projects\CheckOut\CheckOut.Tests\bin\Debug\nunit.engine.dll
+C:\Users\alannevitt\Documents\Visual Studio 2017\Projects\CheckOut\CheckOut.Tests\bin\Debug\nunit.engine.api.dll
+C:\Users\alannevitt\Documents\Visual Studio 2017\Projects\CheckOut\CheckOut.Tests\bin\Debug\Mono.Cecil.dll

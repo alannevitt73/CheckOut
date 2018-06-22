@@ -1,0 +1,6 @@
+C:\Users\alannevitt\Documents\Visual Studio 2017\Projects\CheckOut\CheckOut\obj\Debug\CheckOut.csproj.CoreCompileInputs.cache
+C:\Users\alannevitt\Documents\Visual Studio 2017\Projects\CheckOut\CheckOut\bin\Debug\CheckOut.pdb
+C:\Users\alannevitt\Documents\Visual Studio 2017\Projects\CheckOut\CheckOut\obj\Debug\CheckOut.pdb
+C:\Users\alannevitt\Documents\Visual Studio 2017\Projects\CheckOut\CheckOut\bin\Debug\CheckOut.dll.config
+C:\Users\alannevitt\Documents\Visual Studio 2017\Projects\CheckOut\CheckOut\bin\Debug\CheckOut.dll
+C:\Users\alannevitt\Documents\Visual Studio 2017\Projects\CheckOut\CheckOut\obj\Debug\CheckOut.dll
